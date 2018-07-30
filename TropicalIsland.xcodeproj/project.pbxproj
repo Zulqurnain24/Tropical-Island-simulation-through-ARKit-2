@@ -13,6 +13,7 @@
 		27052A6420F885E200E3D590 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27052A6220F885E200E3D590 /* Main.storyboard */; };
 		27052A6620F885E300E3D590 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27052A6520F885E300E3D590 /* Assets.xcassets */; };
 		27052A6920F885E300E3D590 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27052A6720F885E300E3D590 /* LaunchScreen.storyboard */; };
+		27052A7120F885FF00E3D590 /* 3DModels.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27052A7020F885FF00E3D590 /* 3DModels.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		27052A6520F885E300E3D590 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27052A6820F885E300E3D590 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27052A6A20F885E300E3D590 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27052A7020F885FF00E3D590 /* 3DModels.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = 3DModels.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				27052A6520F885E300E3D590 /* Assets.xcassets */,
 				27052A6720F885E300E3D590 /* LaunchScreen.storyboard */,
 				27052A6A20F885E300E3D590 /* Info.plist */,
+				27052A7020F885FF00E3D590 /* 3DModels.xcassets */,
 			);
 			path = TropicalIsland;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27052A7120F885FF00E3D590 /* 3DModels.xcassets in Resources */,
 				27052A5F20F885E200E3D590 /* art.scnassets in Resources */,
 				27052A6920F885E300E3D590 /* LaunchScreen.storyboard in Resources */,
 				27052A6620F885E300E3D590 /* Assets.xcassets in Resources */,
